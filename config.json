@@ -11,7 +11,7 @@
         "headers": {},
         "channels": [
             {
-                "name": "ATV",
+                "name": "atv",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
