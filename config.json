@@ -1,8 +1,8 @@
 [
     {
-        "name": "ontvtime-ru",
-        "slug": "ontvtime=ru",
-        "url": "https://www.ontvtime.ru/channels/index.php?name=CHANNEL_NAME",
+        "name": "ecanlitv3.etvserver",
+        "slug": "ecanlitv3.etvserver",
+        "url": "https://ecanlitv3.etvserver.com/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
