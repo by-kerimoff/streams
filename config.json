@@ -204,7 +204,7 @@
     {
         "name": "ecanlitv",
         "slug": "ecanlitv",
-        "url": "https://www.canlitv.me//embed.php?name=CHANNEL_NAME",
+        "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "file: \"(.*?)\",",
         "expire_duration": "2H",
