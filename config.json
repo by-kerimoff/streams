@@ -1,7 +1,7 @@
 [
     {
-        "name": "CANLITV-VIN",
-        "slug": "canlitv-vin",
+        "name": "ECANLITVIZLE",
+        "slug": "ecanlitvizle",
         "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
