@@ -1,6 +1,6 @@
 [
     {
-        "name": "CanliTv,
+        "name": "Canlitv",
         "slug": "canlitv-com",
         "url": "https://canlitv.com/tr/embed.php?name=CHANNEL_NAME",
         "method": "GET",
