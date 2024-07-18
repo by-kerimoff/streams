@@ -1,8 +1,8 @@
 [
     {
-        "name": "Canlitv-com",
-        "slug": "canlitv-com",
-        "url": "https://canlitv.com/?ulke=az/=CHANNEL_NAME.m3u8",
+        "name": "canlitvvolo",
+        "slug": "canlitvvolo",
+        "url": "https://tv.canlitvvolo.com/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
