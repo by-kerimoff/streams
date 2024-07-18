@@ -1,8 +1,8 @@
 [
     {
-        "name": "Tv-canlitvvolo",
-        "slug": "tv-canlitvvolo",
-        "url": "https://tv.canlitvvolo.com/embed.php?name=CHANNEL_NAME.m3u8",
+        "name": "ontvtime-ru",
+        "slug": "ontvtime=ru",
+        "url": "https://www.ontvtime.ru/channels/index.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
