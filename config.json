@@ -2,7 +2,7 @@
     {
         "name": "ecanlitv3.etvserver",
         "slug": "ecanlitv3.etvserver",
-        "url": "https://ecanlitv3.etvserver.com/embed.php?name=CHANNEL_NAME",
+        "url": "https://ecanlitv3.etvserver.com/embed.php?name=CHANNEL_NAME.m3u8",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
