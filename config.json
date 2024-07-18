@@ -1,8 +1,8 @@
 [
     {
-        "name": "Canlitv",
-        "slug": "canlitv-com",
-        "url": "https://canlitv.com/tr/embed.php?name=CHANNEL_NAME",
+        "name": "Canlitvplayer",
+        "slug": "canlitvvolo",
+        "url": "https://mydo.canlitvplayer.com/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
