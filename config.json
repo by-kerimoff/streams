@@ -1,8 +1,8 @@
 [
     {
-        "name": "ECANLITVIZLE",
-        "slug": "ecanlitvizle",
-        "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
+        "name": "Canlitv-com",
+        "slug": "canlitv-com",
+        "url": "https://canlitv.com/?ulke=az/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
