@@ -204,7 +204,7 @@
     {
         "name": "ecanlitv",
         "slug": "ecanlitv",
-        "url": "https://ecanlitv3.etvserver.com/embed.php?name=CHANNEL_NAME",
+        "url": "https://www.canlitv.me//embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "file: \"(.*?)\",",
         "expire_duration": "2H",
@@ -215,11 +215,11 @@
         },
         "channels": [
             {
-                "name": "A2TV",
+                "name": "ATV",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
-                        "value": "A2tv"
+                        "value": "atv"
                     }
                 ]
             },
