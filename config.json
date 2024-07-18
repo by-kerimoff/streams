@@ -215,7 +215,7 @@
         },
         "channels": [
             {
-                "name": "A2",
+                "name": "A2TV",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
