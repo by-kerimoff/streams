@@ -215,11 +215,11 @@
         },
         "channels": [
             {
-                "name": "DMAX",
+                "name": "A2",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
-                        "value": "DMAX"
+                        "value": "A2"
                     }
                 ]
             },
