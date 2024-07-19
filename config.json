@@ -2,7 +2,7 @@
     {
         "name": "MyVideo",
         "slug": "myvideo-az",
-        "url": "http://149.255.152.218/channels.aspx?channel=CHANNEL_NAME.m3u8",
+        "url": "https://ecanlitvizle.video//channels.aspx?channel=CHANNEL_NAME.m3u8",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
@@ -203,7 +203,7 @@
     },
     {
         "name": "ecanlitv",
-        "slug": "ecanlitv",
+        "slug": "ecanlitvizle.video",
         "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "file: \"(.*?)\",",
