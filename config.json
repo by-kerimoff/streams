@@ -1,7 +1,7 @@
 [
     {
         "name": "ecanlitvizle",
-        "slug": "ecanlitv3.etvserver.com",
+        "slug": "ecanlitvizle-video",
         "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
@@ -11,11 +11,11 @@
         "headers": {},
         "channels": [
             {
-                "name": "A2TV",
+                "name": "ATVHD",
                 "variables": [
                     {
                         "name": "CHANNEL_NAME",
-                        "value": "a2tv"
+                        "value": "atvhd"
                     }
                 ]
             },
