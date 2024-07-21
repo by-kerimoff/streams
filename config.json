@@ -1,8 +1,8 @@
 [
     {
-        "name": "ecanlitvizle",
-        "slug": "ecanlitvizle-video",
-        "url": "https://ecanlitvizle.video/embed.php?name=CHANNEL_NAME",
+        "name": "canlitvplayer",
+        "slug": "canlitvplayer-com",
+        "url": "https://mydo.canlitvplayer.com/embed.php?name=CHANNEL_NAME",
         "method": "GET",
         "pattern": "<source.*?src=\"(.*?)\"",
         "expire_duration": "1D",
