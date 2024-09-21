@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2096000
-http://149.255.152.199/arb24.m3u8?bandwidth=2096&e=1727029109&playlistlength=5&shift=0&sid=coder_51&token=dd0f2db4c6e3e8d2883efc6bbe816ad5&user=37076
+https://extms03.aile.tv/media_idman_azerbaycan.m3u8?bandwidth=1106&e=1727030299&playlistlength=5&shift=2558&sid=coder_67&token=f040650f7d7c2af672671f87a286615a&user=242390
 #EXT-X-STREAM-INF:BANDWIDTH=796000
-http://149.255.152.199/arb24.m3u8?bandwidth=796&e=1727029109&playlistlength=5&shift=0&sid=coder_51&token=dd0f2db4c6e3e8d2883efc6bbe816ad5&user=37076
+https://extms03.aile.tv/media_idman_azerbaycan.m3u8?bandwidth=1106&e=1727030299&playlistlength=5&shift=2558&sid=coder_67&token=f040650f7d7c2af672671f87a286615a&user=242390
